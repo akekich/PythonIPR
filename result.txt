@@ -1,0 +1,47 @@
+insert into DbProjects values ('null', 1265, Проект1
+, 'null)
+insert into DbProjects values ('null', 1265, Проект1
+, 'null)
+insert into DbProjects values ('null', 1265, Проект1
+, 'null)
+insert into DbProjects values ('null', 1265, Проект1
+, 'null)
+insert into DbProjects values ('null', 1265, Проект1
+, 'null)
+insert into DbProjects values ('null', 1265, Проект1
+, 'null)
+insert into DbProjects values ('null', 1265, Проект1
+, 'null)
+insert into DbProjects values ('null', 1265, Проект1
+, 'null)
+insert into DbProjects values ('null', 1265, Проект1
+, 'null)
+insert into DbProjects values ('null', 1265, Проект1
+, 'null)
+insert into DbProjects values ('null', 1265, Проект1
+, 'null)
+insert into DbProjects values ('null', 1265, Проект1, 'null)
+insert into DbProjects values ('null', 1265, 'Проект1', 'null)
+insert into DbProjects values ('null', 1265, 'Проект1', 'null)
+insert into DbProjects values ('null', 1265, 'Проект1', 'null)
+insert into DbProjects values ('null', 1265, 'Проект1', 'null)
+insert into DbProjects values ('null', 1265, 'Проект1', 'null)
+insert into DbProjects values ('null', 1265, 'Проект1', 'null)
+insert into DbProjects values ('null', 1265, 'Проект1', 'null)
+insert into DbProjects values ('null', 1265, 'Проект1', 'null)
+insert into DbProjects values ('null', 1265, 'Проект1', 'null)
+insert into DbProjects values ('null', 1265, 'Проект1', 'null)
+insert into DbProjects values ('null', 1265, 'Проект1', 'null)
+insert into DbProjects values ('null', 1265, 'Проект1', 'null)
+insert into DbProjects values (null, 1265, 'Проект1', null)
+insert into DbProjects values (null, 1265, 'Проект1', null)
+insert into DbProjects values (null, 1265, 'Проект1', null)
+insert into DbProjects values (null, 1265, 'Проект1', null)
+insert into DbProjects values (null, 1265, 'Проект1', null)
+insert into DbProjects values (null, 1265, 'Проект1', null)
+insert into DbProjects values (null, 1265, 'Проект1', null)
+insert into DbProjects values (null, 1265, 'Проект1', null)
+insert into DbProjects values (null, 1265, 'Проект1', null)
+insert into DbProjects values (null, 1265, 'Проект1', null)
+insert into DbProjects values (null, 1265, 'Проект1', null)
+insert into DbProjects values (null, 1265, 'Проект1', null)
